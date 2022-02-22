@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.AssemblyInfo.cs
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.deps.json
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.dll
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\bin\Debug\net5.0\ref\UniSales.Repository.dll
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\bin\Debug\net5.0\UniSales.Repository.pdb
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.dll
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\obj\Debug\net5.0\ref\UniSales.Repository.dll
+C:\Users\Acer\source\repos\UniSales\UniSales.Repository\obj\Debug\net5.0\UniSales.Repository.pdb
